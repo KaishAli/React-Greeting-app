@@ -1,0 +1,33 @@
+body{
+  background-color: rgb(200, 164, 214);
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0%;
+  font-family: "josefin Sans" , sans-serif;
+}
+div{
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: -30px;
+}
+h1{
+  padding: 20px 20px;
+  background-color: rgb(111, 180, 197);
+  color: rgb(187, 34, 85);
+  border-radius: 20px;
+}
+span{
+  color: rgb(240, 92, 129);
+  background-color: rgb(201, 193, 183);
+  border-radius: 8px;
+
+  
+
+
+}
+
+
+
