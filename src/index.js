@@ -2,7 +2,7 @@ import React from "react";
 import ReactDOM from "react-dom";
 import "./index.css";
 
-let curDate = new Date(curDate);
+let curDate = new Date(2022, 2, 2,20);
 curDate = curDate.getHours();
 let greeting = "";
 const cssStyle = {};
